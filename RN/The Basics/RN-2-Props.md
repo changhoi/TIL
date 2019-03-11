@@ -60,3 +60,5 @@ AppRegistry.registerComponent('AwesomeProject', () => LotsOfGreetings);
 다른 새로운 것은 `<View>`컴포넌트를 들 수 있다. <View>는 다른 컴포넌트의 컨테이너로서 스타일과 레이아웃을 조정하기에 아주 유용하다.
 
 기본적인 컴포넌트들과 `props`를 이용해서 정적 화면을 만들 수 있게 되었다.
+
+3. [State](https://github.com/changhoi/TIL/blob/master/RN/The%20Basics/RN-3-State.md)

@@ -35,3 +35,6 @@ export default class HelloWorldApp extends Component {
 ## Components
 
 결과에서 볼 수 있듯, 위 코드는 새로운 컴포넌트인 `HelloWorldApp`을 정의한 것이다. 너가 RN 앱을 빌딩할 때 너는 새로운 컴포넌트들을 많이 만들게 될것이다. 스크린(모바일 화면 등)에서 보이는 어떤 것이든 컴포넌트의 일종이다. 컴포넌트는 단지 `render`만 있으면 되기 때문에 아주 간단해질 수 있다. `render`는 `JSX`를 리턴하는 함수이다.
+
+
+2. [Props](https://github.com/changhoi/TIL/blob/master/RN/The%20Basics/RN-2-Props.md)

@@ -52,3 +52,5 @@ export default class BlinkApp extends Component{
 `setState`가 호출되면, BlinkApp은 컴포넌트를 새로 랜더링한다(`re-render`). 위 예시에서는 초당 한 번씩 랜더링을 새로 할 것이다.
 
 `state`는 React에서 작동하던 대로 작동한다. 따라서 `state`에 대해서 더 자세히 알아야 한다면, [ReactComponent API](https://reactjs.org/docs/react-component.html#setstate)를 확인해보자.
+
+4. [Style](https://github.com/changhoi/TIL/blob/master/RN/The%20Basics/RN-4-Style.md)

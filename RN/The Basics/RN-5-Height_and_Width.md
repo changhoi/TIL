@@ -46,4 +46,4 @@ export default class FlexDimsBasic extends React.Component {
 }
 ```
 
-[< Style]()     [Layout with Flexbox >]()
+6. [Layout with Flexbox]()

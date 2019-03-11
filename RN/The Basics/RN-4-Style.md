@@ -38,3 +38,5 @@ export default class LotsOfStyles extends Component {
 일반적인 하나의 패턴은 너의 컴포넌트가 style prop이 승인 받도록 한다. 그리고 그것은 하위 컴포넌트의 스타일로 사용된다.
 
 텍스트 스타일을 커스텀하는 방법은 많다. [Text component reference](https://facebook.github.io/react-native/docs/text)를 확인해보면, 리스트 사용법을 알 수 있다.
+
+5. [Height and Width](https://github.com/changhoi/TIL/blob/master/RN/The%20Basics/RN-5-Height_and_Width.md)
