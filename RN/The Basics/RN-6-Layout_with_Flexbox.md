@@ -59,4 +59,4 @@ export default class AlignItemsBasics extends Component {
 
 기타 다른 레이아웃에 대한 prop은 [링크](https://facebook.github.io/react-native/docs/layout-props)에 있다
 
-7. [Handling Text Input]()
+7. [Handling Text Input](https://github.com/changhoi/TIL/blob/master/RN/The%20Basics/RN-7-%20Handling_Text_Input)
