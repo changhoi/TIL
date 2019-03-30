@@ -9,8 +9,8 @@ Today I Learned
 
 ## [React](#)
 
-## [React Native](./RN/README.md)
+## [React Native](./RN)
 
-## [Apollo](./Apollo/README.md)
+## [Apollo](./Apollo)
 
-## [GraphQL](./GraphQL/README.md)
+## [GraphQL](./GraphQL)

@@ -13,3 +13,6 @@
 7. [Handling Text Input](https://github.com/changhoi/TIL/blob/master/RN/The%20Basics/RN-7-%20Handling_Text_Input.md)
 
 ## Expo
+
+1. [Asset](./Expo/Asset.md)
+2. [AppLoading](./AppLoading.md)
