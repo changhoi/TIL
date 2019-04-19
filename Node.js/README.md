@@ -10,8 +10,11 @@
 
 - [ ] Multer
 - [ ] Cookie Parser
+- [ ] express-session
 
 ## Mongoose
+
+- [ ] connect-mongo
 
 ## Passport.js
 

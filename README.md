@@ -9,11 +9,13 @@ Today I Learned
 
 ## [Algorithm](https://github.com/changhoi/Algorithm)
 
+## [Theory](./Theory)
+
 ## [Apollo](./Apollo)
 
 ## [JavaScript](./Javascript)
 
-## [React](#)
+## [React](./React)
 
 ## [React Native](./RN)
 
