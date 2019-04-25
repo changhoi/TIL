@@ -6,8 +6,16 @@
 
 ## Express.js
 
-### Middlewares
+- [ ] app.get
+- [ ] express.urlencoded
+- [ ] express.json
 
+### Middlewares / Modules
+
+- [ ] ws
+- [x] [Socket.io](./SocketIo.md)
+- [ ] dotenv
+- [ ] connect-flash
 - [ ] Multer
 - [ ] Cookie Parser
 - [ ] express-session
