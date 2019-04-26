@@ -109,8 +109,6 @@ export default server => {
    * 콜백 함수에 소켓 객체를 넣는다.
    */
   io.on('connection', socket => {
-
-
     /* socket.request는 요청 객체에 접근할 때 사용된다.
      * socket.request.res로 응답 객체에 접근할 수 있다.
      * socket.id로 소켓 고유 아이디를 가져올 수 있다.

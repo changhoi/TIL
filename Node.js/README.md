@@ -12,13 +12,12 @@
 
 ### Middlewares / Modules
 
-- [ ] ws
 - [x] [Socket.io](./SocketIo.md)
 - [ ] dotenv
 - [ ] connect-flash
 - [ ] Multer
 - [ ] Cookie Parser
-- [ ] express-session
+- [x] express-session
 
 ## Mongoose
 
