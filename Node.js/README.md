@@ -16,8 +16,8 @@
 - [ ] dotenv
 - [ ] connect-flash
 - [ ] Multer
-- [ ] Cookie Parser
-- [x] express-session
+- [x] Cookie Parser
+- [x] [express-session](./express-session.md)
 
 ## Mongoose
 

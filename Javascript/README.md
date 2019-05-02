@@ -2,9 +2,9 @@
 
 ## Ajax
 
-- [Ajax1](./Ajax1)
-- [Ajax2](./Ajax2)
-- [Ajax3](./Ajax3)
+- [Ajax1](./Ajax1.md)
+- [Ajax2](./Ajax2.md)
+- [Ajax3](./Ajax3.md)
 
 ## [Promise](./Promise.md)
 
