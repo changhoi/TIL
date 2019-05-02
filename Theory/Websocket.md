@@ -14,4 +14,4 @@ source: Node.js 교과서
 > cf. Server Sent Event (SSE)
 > EventSource라는 객체를 사용해서 한 번만 연결하면, 서버가 클라이언트에 지속적으로 데이터를 보내주는 방식이다. 웹소켓과 다른 점은 클라이언트에서 서버로는 데이터를 보낼 수 없다는 것이다.
 
-[실습](../Node.js/SocketIo.md)
+[Socket.io](../Node.js/SocketIo.md)
