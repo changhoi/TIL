@@ -1,23 +1,27 @@
-# Node.js
+# [Node.js](./Node.md)
 
-- [ ] path
+- [x] `__filename`, `__dirname`
+- [x] global
 - [ ] os
+- [ ] path
 - [ ] process
 
 ## Express.js
 
 - [ ] app.get
-- [ ] express.urlencoded
 - [ ] express.json
+- [ ] express.urlencoded
 
 ### Middlewares / Modules
 
-- [x] [Socket.io](./SocketIo.md)
+- [x] [Cookie Parser](./cookie-parser.md)
+- [ ] [connect-flash](./connect-flash.md)
 - [ ] dotenv
-- [ ] connect-flash
-- [ ] Multer
-- [x] Cookie Parser
 - [x] [express-session](./express-session.md)
+- [ ] [jsonwebtoken](./jsonwebtoken.md)
+- [ ] Multer
+- [x] [Socket.io](./SocketIo.md)
+- [ ] [uuid](./uuid.md)
 
 ## Mongoose
 
