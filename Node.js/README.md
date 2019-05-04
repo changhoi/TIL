@@ -2,9 +2,9 @@
 
 - [x] `__filename`, `__dirname`
 - [x] global
-- [ ] os
-- [ ] path
-- [ ] process
+- [x] os
+- [x] path
+- [x] process
 
 ## Express.js
 
@@ -15,7 +15,7 @@
 ### Middlewares / Modules
 
 - [x] [Cookie Parser](./cookie-parser.md)
-- [ ] [connect-flash](./connect-flash.md)
+- [x] [connect-flash](./connect-flash.md)
 - [ ] dotenv
 - [x] [express-session](./express-session.md)
 - [ ] [jsonwebtoken](./jsonwebtoken.md)
