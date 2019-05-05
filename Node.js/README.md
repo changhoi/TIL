@@ -27,6 +27,6 @@
 
 - [ ] connect-mongo
 
-## Passport.js
+## [Passport.js](./Passport.md)
 
 - [ ] Passport-local-mongoose
