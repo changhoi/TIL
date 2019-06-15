@@ -12,6 +12,8 @@ Today I Learned
 
 ## [Apollo](./Apollo)
 
+## [Docker](./Docker)
+
 ## [GraphQL](./GraphQL)
 
 ## [JavaScript](./Javascript)

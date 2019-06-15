@@ -78,3 +78,16 @@
     - 위 명령어로 컨테이너에서 호스트 현재 폴더로 복사가 가능하다.
 - `sudo docker container cp 파일이름 컨테이너이름 or 컨테이너ID:컨테이너 복사 위치`
     - 위 명령어로 호스트의 파일을 컨테이너에 복사할 수 있다.
+
+### `docker container stats`
+
+- 시스템 리소스 사용 현황을 컨테이너 단위로 확인할 수 있다
+- `sudo docker container stats (options) (컨테이너ID)`
+- 컨테이너 ID를 따로 전달해주지 않으면 다 나오는 것 같음
+
+### `prune`
+
+- 도커 이미지나 컨테이너를 한 번에 여러 개 삭제가 가능하다.
+- `sudo docker container prune (options)`은 실행 상태가 아닌 모든 컨테이너를 삭제한다.
+- `sudo docker image prune (options)` 으로 태그가 붙지 않은 이미지를 삭제할 수 있다.
+- `sudo docker system prune` 이미지, 컨테이너, 볼륨, 네트워크 등 도커 리소스를 한 번에 삭제 가능함

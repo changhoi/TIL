@@ -9,6 +9,4 @@
 
 ## [Docker Container](./Docker-Container.md)
 
-## [기타 명령]
-
 ## [컴포즈]
